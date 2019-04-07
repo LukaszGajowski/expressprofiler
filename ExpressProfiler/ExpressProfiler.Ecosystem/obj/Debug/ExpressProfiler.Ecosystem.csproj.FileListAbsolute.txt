@@ -1,0 +1,9 @@
+C:\GitHub\expressprofiler\ExpressProfiler\ExpressProfiler.Ecosystem\bin\Debug\ExpressProfiler.Ecosystem.dll
+C:\GitHub\expressprofiler\ExpressProfiler\ExpressProfiler.Ecosystem\bin\Debug\ExpressProfiler.Ecosystem.pdb
+C:\GitHub\expressprofiler\ExpressProfiler\ExpressProfiler.Ecosystem\bin\Debug\RedGate.SIPFrameworkShared.dll
+C:\GitHub\expressprofiler\ExpressProfiler\ExpressProfiler.Ecosystem\bin\Debug\RedGate.SIPFrameworkShared.pdb
+C:\GitHub\expressprofiler\ExpressProfiler\ExpressProfiler.Ecosystem\obj\Debug\ExpressProfiler.Ecosystem.csprojAssemblyReference.cache
+C:\GitHub\expressprofiler\ExpressProfiler\ExpressProfiler.Ecosystem\obj\Debug\ExpressProfiler.Ecosystem.csproj.CoreCompileInputs.cache
+C:\GitHub\expressprofiler\ExpressProfiler\ExpressProfiler.Ecosystem\obj\Debug\ExpressProfiler.Ecosystem.csproj.CopyComplete
+C:\GitHub\expressprofiler\ExpressProfiler\ExpressProfiler.Ecosystem\obj\Debug\ExpressProfiler.Ecosystem.dll
+C:\GitHub\expressprofiler\ExpressProfiler\ExpressProfiler.Ecosystem\obj\Debug\ExpressProfiler.Ecosystem.pdb

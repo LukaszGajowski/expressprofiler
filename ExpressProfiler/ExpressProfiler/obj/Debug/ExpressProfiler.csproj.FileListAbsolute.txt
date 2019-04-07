@@ -1,0 +1,12 @@
+C:\GitHub\expressprofiler\ExpressProfiler\ExpressProfiler\bin\Debug\ExpressProfiler.exe.config
+C:\GitHub\expressprofiler\ExpressProfiler\ExpressProfiler\bin\Debug\ExpressProfiler.exe
+C:\GitHub\expressprofiler\ExpressProfiler\ExpressProfiler\bin\Debug\ExpressProfiler.pdb
+C:\GitHub\expressprofiler\ExpressProfiler\ExpressProfiler\obj\Debug\ExpressProfiler.csprojAssemblyReference.cache
+C:\GitHub\expressprofiler\ExpressProfiler\ExpressProfiler\obj\Debug\ExpressProfiler.FindForm.resources
+C:\GitHub\expressprofiler\ExpressProfiler\ExpressProfiler\obj\Debug\ExpressProfiler.MainForm.resources
+C:\GitHub\expressprofiler\ExpressProfiler\ExpressProfiler\obj\Debug\ExpressProfiler.Properties.Resources.resources
+C:\GitHub\expressprofiler\ExpressProfiler\ExpressProfiler\obj\Debug\ExpressProfiler.TraceProperties.resources
+C:\GitHub\expressprofiler\ExpressProfiler\ExpressProfiler\obj\Debug\ExpressProfiler.csproj.GenerateResource.cache
+C:\GitHub\expressprofiler\ExpressProfiler\ExpressProfiler\obj\Debug\ExpressProfiler.csproj.CoreCompileInputs.cache
+C:\GitHub\expressprofiler\ExpressProfiler\ExpressProfiler\obj\Debug\ExpressProfiler.exe
+C:\GitHub\expressprofiler\ExpressProfiler\ExpressProfiler\obj\Debug\ExpressProfiler.pdb
